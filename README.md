@@ -13,7 +13,7 @@ Welcome to the Exodus Balance Changer Tool, a multi-tool for exodus written in p
 
 ### Option <1>
 
-- **Reset Balance**: With this button you can reset the settings to default
+- **Reset Balance**: With this button you can reset the settings to default 
 
 ### Option <2>
 - **Clear Transaction History**: This clears everything from the "transactions" tab
