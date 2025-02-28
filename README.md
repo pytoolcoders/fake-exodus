@@ -5,7 +5,7 @@ Welcome to the Exodus Balance Changer Tool, a multi-tool for exodus written in p
 
 
 ## Showcases
-
+ 
 ![image](https://github.com/malik9802/fake-exodus/assets/166440628/2d1391a5-60f9-43e4-a167-b0fa110799f6)
 
 
